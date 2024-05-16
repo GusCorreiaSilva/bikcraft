@@ -46,6 +46,24 @@
 }
 
 
+@media (max-width: 1200px) {
+    .font-1-xxL {
+        font-size: 3rem;
+    }
+    .font-2-L,
+    .font-2-L-b {
+        font-size: 1.125rem;
+    }
+}
 
+@media (max-width:800px) {
+    .font-1-xxL {
+        font-size: 2rem;
+    } 
+    .font-1-xL,
+    .font-2-xL {
+        font-size: 1.5rem;
+    }
+}
 
 
